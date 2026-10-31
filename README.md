@@ -32,6 +32,8 @@ A Stardew Valley 1.6 mod. Every tool and weapon quietly keeps a lifetime record 
 - Upgrades at Clint keep the whole record.
 - Generic Mod Config Menu support, and console commands.
 
+Download on [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/54878).
+
 ## Install
 1. Install [SMAPI](https://smapi.io) 4.0 or later.
 2. Unzip the mod into `Stardew Valley/Mods`.

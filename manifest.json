@@ -7,7 +7,7 @@
   "EntryDll": "HeirloomTools.dll",
   "MinimumApiVersion": "4.0.0",
   "MinimumGameVersion": "1.6.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:54878" ],
   "Dependencies": [
     {
       "UniqueID": "spacechase0.GenericModConfigMenu",
