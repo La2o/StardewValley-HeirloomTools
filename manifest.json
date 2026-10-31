@@ -1,0 +1,17 @@
+{
+  "Name": "Heirloom Tools",
+  "Author": "ygsnaffy",
+  "Version": "1.0.0",
+  "Description": "Every tool and weapon keeps a lifetime record of how you used it: tiles tilled, rocks broken, fish caught, monsters slain, rare finds and the day it joined you. Hover over it to read its story, and give it a name.",
+  "UniqueID": "ygsnaffy.HeirloomTools",
+  "EntryDll": "HeirloomTools.dll",
+  "MinimumApiVersion": "4.0.0",
+  "MinimumGameVersion": "1.6.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
